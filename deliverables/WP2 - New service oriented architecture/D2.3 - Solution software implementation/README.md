@@ -1,2 +1,0 @@
-# corda-scales
-
